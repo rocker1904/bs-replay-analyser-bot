@@ -295,7 +295,7 @@ module.exports = {
 
 			} else if (report === "hitscore") {
 				
-				interaction.reply(`Not implemented yet`)
+				interaction.editReply(`Not implemented yet`)
                 return
 
 			}
