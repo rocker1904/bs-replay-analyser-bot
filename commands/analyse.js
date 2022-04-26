@@ -295,7 +295,8 @@ module.exports = {
 
 			} else if (report === "hitscore") {
 				
-				// TODO
+				interaction.reply(`Not implemented yet`)
+                return
 
 			}
 
