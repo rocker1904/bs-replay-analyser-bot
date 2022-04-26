@@ -1,22 +1,22 @@
 {
-  "name": "bs-replay-analyzer-bot",
+  "name": "bs-replay-analyser-bot",
   "version": "1.0.0",
-  "description": "Beat Saber Replay Analyzer Bot",
+  "description": "Beat Saber Replay Analyser Bot",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/recursivebs/bs-replay-analyzer-bot.git"
+    "url": "git+https://github.com/rocker1904/bs-replay-analyser-bot.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/recursivebs/bs-replay-analyzer-bot/issues"
+    "url": "https://github.com/rocker1904/bs-replay-analyser-bot/issues"
   },
-  "homepage": "https://github.com/recursivebs/bs-replay-analyzer-bot#readme",
+  "homepage": "https://github.com/rocker1904/bs-replay-analyser-bot#readme",
   "dependencies": {
     "@discordjs/builders": "^0.12.0",
     "@discordjs/rest": "^0.3.0",

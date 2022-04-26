@@ -1,2 +1,2 @@
-# bs-replay-analyzer-bot
-Beat Saber Replay Analyzer Bot
+# bs-replay-analyser-bot
+Beat Saber Replay Analyser Bot

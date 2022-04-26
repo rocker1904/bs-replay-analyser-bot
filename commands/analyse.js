@@ -231,8 +231,8 @@ const buildSplitAccGraphChart = async (params) => {
 
 module.exports = {
 	data: new SlashCommandBuilder()
-		.setName('analyze')
-		.setDescription('Analyze a replay')
+		.setName('analyse')
+		.setDescription('Analyse a replay')
 		.addStringOption(option =>
 			option.setName("report")
 				.setDescription("Report type to run.")
